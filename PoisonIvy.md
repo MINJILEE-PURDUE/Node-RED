@@ -6,6 +6,8 @@ While contact with poison ivy causes a reaction known as a cell-mediated immune 
 e.g., The best control for poison ivy is to monitor frequently and remove plants promptly when they are found to avoid vines from becoming large and more difficult to control.
 (ref. IOWA State University)
 
+e.g., While the Poison Ivy Application available on IOS, there is no accuracy gaurantee.
+
 - Delimiations: RELATIVES:
 
 Poison oak (Toxicodendron pubescens) is a low shrub bearing compound leaves with three leaflets, but the leaflet edges have rounded lobes and resemble oak leaves. The young twigs, petioles, and sometimes the leaves are covered with hairs.
