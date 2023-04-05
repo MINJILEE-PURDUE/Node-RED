@@ -1,6 +1,6 @@
 - Problem Statement(s)
 
-While contact with poison ivy causes a reaction known as a cell-mediated immune response in humans, there is little solution to classify the plant in academic research studies or the industry.
+While contact with poison ivy causes a reaction known as a cell-mediated immune response in humans, there is little solution to classify the plant in academic research studies or the industry (commercials).
 
 
 e.g., The best control for poison ivy is to monitor frequently and remove plants promptly when they are found to avoid vines from becoming large and more difficult to control.
