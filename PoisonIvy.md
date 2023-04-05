@@ -22,6 +22,8 @@ In the summer, that gorgeous red color transitions into green once summer hits, 
 
 
 Available Datasets;
+
+https://www.kaggle.com/datasets/hanselliott/toxic-plant-classification
 https://github.com/hans-elliott99/toxic-plant-classification/blob/main/notebooks/scrape-iNaturalist.ipynb
 
 
